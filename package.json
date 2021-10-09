@@ -7,6 +7,7 @@
     "serve": "vite preview",
     "deploy-gh": "yarn docs:build && sh scripts/deploy-gh.sh"
   },
+  "homepage": "https://parishappytime.github.io/yxswy-vite",
   "dependencies": {
     "axios": "^0.21.1",
     "dayjs": "^1.10.6",
